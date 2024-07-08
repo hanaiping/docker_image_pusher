@@ -1,1 +1,2 @@
+alpine
 nacos/nacos-server:latest
